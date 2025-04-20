@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I’m Chris 👋  
+**Lead Designer & Developer** | Helping Startups Build MVPs That Raise 🚀
 
-<!--
-**Christopher-I/Christopher-I** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 Founder-friendly dev & UX support | $750M+ Raised
+- 🛠️ I specialize in **Webflow, Shopify, React, and Web3 tools**
+- 🔗 Helping early-stage teams build fast, fundable products
 
-Here are some ideas to get you started:
+## 🔧 Tech I Use
+- **Design & UX:** Figma, Webflow, Framer, Design Systems
+- **Frontend:** React, Next.js, TypeScript, Redux, Tailwind
+- **Platforms:** Shopify, Firebase, Vercel
+- **Web3:** Solidity, Smart Contracts, Ethereum, Chainlink, Anchor (Solana)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Find Me Elsewhere
+- 💻 [My Website](https://chrisigbojekwe.com)
+- 💼 [LinkedIn](https://linkedin.com/in/chris-i)
+- 🧪 [Dribbble](https://dribbble.com/chris-i)
