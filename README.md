@@ -17,4 +17,4 @@
 - 🧪 [Dribbble](https://dribbble.com/chris-i)
 
 ## 📅 Free consultation
-🤝 Book a free 15‑minute consultation and let’s map out your fastest path to launch.
+🤝[Book a free 15‑minute consultation](https://calendly.com/christopher-igbojekwe/15min) and let’s map out your fastest path to launch.
