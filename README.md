@@ -16,5 +16,5 @@
 - 💼 [LinkedIn](https://linkedin.com/in/chris-i)
 - 🧪 [Dribbble](https://dribbble.com/chris-i)
 
-## 📅 Ready to brainstorm your MVP?
+## 📅 Free consultation
 🤝 Book a free 15‑minute consultation and let’s map out your fastest path to launch.
