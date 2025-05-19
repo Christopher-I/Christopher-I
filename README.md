@@ -1,9 +1,9 @@
 # Hey, I’m Chris 👋  
-**Lead Designer & Developer** | Helping Startups Build MVPs That Raise 🚀
+**Lead Designer & Developer** | Helping small businesses build products that drive sales 🚀
 
-- 💼 Founder-friendly dev & UX support | $750M+ Raised
+- 💼 Founder-friendly dev & UX support | Products I’ve designed have helped small businesses raise $750M+.
 - 🛠️ I specialize in **Webflow, Shopify, React, and Web3 tools**
-- 🔗 Helping early-stage teams build fast, fundable products
+- 🔗 Helping small to medium sized businesses teams build fast, scalable products that drive sales.
 
 ## 🔧 Tech I Use
 - **Design & UX:** Figma, Webflow, Framer, Design Systems
