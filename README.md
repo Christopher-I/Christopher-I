@@ -6,9 +6,8 @@
 - 🔗 Helping small to medium sized businesses teams build fast, scalable products that drive sales.
 
 ## 🔧 Tech I Use
-- **Design & UX:** Figma, Webflow, Framer, Design Systems
+- **Design & Dev:** Webflow, Framer, GHL, Shopify, Bubble, Figma.
 - **Frontend:** React, Next.js, TypeScript, Redux, Tailwind
-- **Platforms:** Shopify, Firebase, Vercel
 - **Web3:** Solidity, Smart Contracts, Ethereum, Chainlink, Anchor (Solana)
 
 ## 🌍 Find Me Elsewhere
