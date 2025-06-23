@@ -1,5 +1,5 @@
 # Hey, I’m Chris 👋  
-**Lead Designer & Developer** | Helping small businesses build products that drive sales 🚀
+**Senior Designer & Developer** | Helping small businesses build products that drive sales 
 
 - 💼 Founder-friendly dev & UX support | Products I’ve designed have helped small businesses raise $750M+.
 - 🛠️ I specialize in **Webflow, Shopify, React, and Web3 tools**
