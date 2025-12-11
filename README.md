@@ -6,7 +6,7 @@
 - 🔗 Helping small to medium sized businesses teams build fast, scalable products that drive sales.
 
 ## 🔧 Tech I Use
-- **Design & Dev:** Webflow, Framer, GHL, Shopify, Bubble, Figma.
+- **Design & Dev:** Webflow, Shopify, Framer, GHL, Shopify, Bubble, Figma.
 - **Frontend:** React, Next.js, TypeScript, Redux, Tailwind
 
 ## 🌍 Find Me Elsewhere
