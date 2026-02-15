@@ -1,20 +1,22 @@
-# Hey, I’m Chris 👋  
-**Senior Designer & Developer** | Helping small businesses build websites and apps that drive sales 
+# Hey, I'm Chris 👋
 
-- 💼 Founder-friendly dev & UX support | Products I’ve designed have helped small businesses raise $750M+.
-- 🛠️ I specialize in **Webflow, Shopify, React, and Web tools**
-- 🔗 Helping small to medium sized businesses teams build fast, scalable products that drive sales.
+**Senior Product Designer & Full-Stack Engineer** | Building decision platforms, high-converting web products, and custom applications for governments, investment firms, and funded startups.
 
-## 🔧 Tech I Use
-- **Design & Dev:** Webflow, Shopify, Framer, GHL, Shopify, Bubble, Figma.
+- 🏛️ Currently building the Cayman Islands National Resilience Scorecard — an EU-funded decision-support platform
+- 💼 10+ years shipping products for teams backed by Coinbase, Sequoia & Techstars that have collectively raised over $1B
+- 🛠️ React, TypeScript, Next.js, Webflow, Shopify
+
+## 🔧 Tech Stack
+
 - **Frontend:** React, Next.js, TypeScript, Redux, Tailwind
+- **Platforms:** Webflow, Shopify, Framer
+- **Design:** Figma, Adobe XD
 
 ## 🌍 Find Me Elsewhere
-- 💻 [My Website](https://chrisigbojekwe.com)
+
+- 💻 [Portfolio](https://chrisigbojekwe.com)
 - 💼 [LinkedIn](https://linkedin.com/in/chris-i)
-- 🧪 [Dribbble](https://dribbble.com/chris-i)
 
-## 📅 Free consultation
-🤝 [Book a free 15‑minute consultation](https://calendly.com/seedapp) and let’s map out your fastest path to launch.
+## 📅 Work With Me
 
-
+🤝 [Book a call](https://calendly.com/seedapp) to discuss your project.
