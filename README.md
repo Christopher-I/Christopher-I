@@ -10,12 +10,12 @@ I architect the system, write the code, and own the outcome.
 </p>
 
 <p>
-<a href="https://seedapp.io"><img src="https://img.shields.io/badge/seedapp.io-1a1b27?style=flat-square&logo=vercel&logoColor=555"/></a>
 <a href="https://linkedin.com/in/chris-i"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=flat-square&logo=linkedin&logoColor=555"/></a>
-<a href="mailto:christopher.igbojekwe@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=flat-square&logo=gmail&logoColor=555"/></a>
+<a href="https://seedapp.io"><img src="https://img.shields.io/badge/seedapp.io-1a1b27?style=flat-square&logo=vercel&logoColor=555"/></a>
+<img src="https://img.shields.io/badge/christopher.igbojekwe%40gmail.com-1a1b27?style=flat-square&logo=gmail&logoColor=555"/>
 </p>
 
-<a href="https://calendly.com/seedapp"><img src="https://img.shields.io/badge/Book%20a%20Call-00D084?style=for-the-badge"/></a>
+<a href="https://calendly.com/chrisigbojekwe"><img src="https://img.shields.io/badge/Book%20a%20Call-00D084?style=for-the-badge"/></a>
 
 </div>
 
@@ -108,7 +108,7 @@ I architect the system, write the code, and own the outcome.
 
 <p>Open to retainer engagements from $5K · Senior-level only · San Diego, CA</p>
 
-<a href="https://calendly.com/seedapp"><img src="https://img.shields.io/badge/Book%20a%20Call-00D084?style=for-the-badge"/></a>
+<a href="https://calendly.com/chrisigbojekwe"><img src="https://img.shields.io/badge/Book%20a%20Call-00D084?style=for-the-badge"/></a>
 
 <br/><br/>
 
