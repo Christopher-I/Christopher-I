@@ -65,19 +65,9 @@ I architect the system, write the code, and own the outcome.
 
 ---
 
-## Clients & Backers
+## Track Record
 
-<div align="center">
-
-![Coinbase](https://img.shields.io/badge/Coinbase-1a1b27?style=flat-square&logo=coinbase&logoColor=0052FF)
-![Sequoia](https://img.shields.io/badge/Sequoia_Capital-1a1b27?style=flat-square)
-![Techstars](https://img.shields.io/badge/Techstars_Alum-1a1b27?style=flat-square)
-![Cayman Islands Gov](https://img.shields.io/badge/Cayman_Islands_Gov-1a1b27?style=flat-square)
-![PCH](https://img.shields.io/badge/Publishers_Clearing_House-1a1b27?style=flat-square)
-
-**$1B+ raised by client teams · 10+ years · Techstars alum**
-
-</div>
+10+ years building for clients backed by **Coinbase**, **Sequoia**, and **Techstars** — including a Cayman Islands government platform, a Publishers Clearing House Shopify product, and DeFi products for teams that raised $1.35B+. Techstars alum. Client teams have collectively raised over **$1B**.
 
 ---
 
@@ -102,13 +92,13 @@ I architect the system, write the code, and own the outcome.
 
 ---
 
-## Contribution Activity
+## Always Shipping
 
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Christopher-I&bg_color=0d1117&color=7c8fff&line=7c8fff&point=ffffff&area=true&hide_border=true&radius=6)](https://github.com/Christopher-I)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Christopher-I&theme=tokyonight&hide_border=true&border_radius=8&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Christopher-I&theme=tokyonight&hide_border=true&border_radius=8&card_width=500&hide_current_streak=true)](https://git.io/streak-stats)
 
 </div>
 
