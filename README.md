@@ -5,8 +5,7 @@
 <p><strong>Full-Stack Engineer & Product Designer</strong> · Founder, <a href="https://seedapp.io">Seed App</a></p>
 
 <p>
-I build complex digital products for governments, universities, and funded startups.<br/>
-I architect the system, write the code, and own the outcome.
+I build complex digital products for enterprises, governments, universities, and funded startups.<br/>
 </p>
 
 <p>
